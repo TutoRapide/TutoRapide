@@ -4,7 +4,7 @@ Salut, je suis Samuel *(Alias  TutoRapide sur internet)*, j’ai 21 ans, je suis
 Je suis un passionné de l’informatique depuis mon plus jeune âge. J’ai fait mes premiers pas sur l’ordinateur à 6 ans.
 J'ai suivi une formation **Technicien supérieur en réseaux informatiques et télécommunications** en 2018 sur Toulouse.
 
-##Projet
+## Projet
 
 ❱ [Youtube](https://www.youtube.com/TutoRapide) 18 avril 2016. Je fait des tutoriel sur tout se qui touche a l'informatique (Discord , Windows, Linux, Android)
 
@@ -34,13 +34,9 @@ J'ai suivi une formation **Technicien supérieur en réseaux informatiques et t�
 ### Logiciel
 
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%239999FF.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/visual%20studio%20code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Open%20Broadcaster%20Software%20-%23302E31.svg?&style=for-the-badge&logo=OBS-Studio&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/raspberry%20pi%20imager%20-%23C51A4A.svg?&style=for-the-badge&logo=OBS-Studio&logoColor=white"/>
 
 
