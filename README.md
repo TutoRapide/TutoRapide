@@ -27,7 +27,7 @@ J'ai suivi une formation **Technicien supérieur en réseaux informatiques et t�
 <img src="https://progress-bar.dev/60?title=Apache" alt="60%">
 <img src="https://progress-bar.dev/90?title=wordpress" alt="90%">
 <img src="https://progress-bar.dev/10?title=Bash" alt="10%">
-<img src="https://progress-bar.dev/100?title=Préparation de tutoriel" alt="100%">
+<img src="https://progress-bar.dev/100?title=Préparation%20de%20tutoriel" alt="100%">
 <br/>
   
 ### Logiciel
