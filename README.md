@@ -23,11 +23,12 @@ J'ai suivi une formation **Technicien supérieur en réseaux informatiques et t�
 
 ### Compétence
 <br/>
-<img src="https://progress-bar.dev/80?title=Nginx" alt="80%">
-<img src="https://progress-bar.dev/60?title=Apache" alt="60%">
-<img src="https://progress-bar.dev/90?title=wordpress" alt="90%">
-<img src="https://progress-bar.dev/10?title=Bash" alt="10%">
-<img src="https://progress-bar.dev/100?title=Préparation%20de%20tutoriel" alt="100%">
+<img src="https://progress-bar.dev/80?title=Nginx" alt="80%">❱ (Configuration de virualhost + sécuriter)<br/>
+<img src="https://progress-bar.dev/60?title=Apache" alt="60%"> ❱ (Configuration de virualhost)<br/>
+<img src="https://progress-bar.dev/90?title=wordpress" alt="90%"> ❱ (Configuration est déploiment de site)<br/>
+<img src="https://progress-bar.dev/10?title=Bash" alt="10%"> ❱ (Apprentissage)<br/>
+<img src="https://progress-bar.dev/100?title=Préparation%20de%20tutoriel" alt="100%"> ❱ (4 ans d'expérience)<br/>
+<br/>
 <br/>
   
 ### Logiciel
