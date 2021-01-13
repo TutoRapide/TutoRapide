@@ -26,7 +26,7 @@ J'ai suivi une formation **Technicien supérieur en réseaux informatiques et t�
 
 <img src="https://progress-bar.dev/80?title=Nginx" alt="80%"> <img src="https://progress-bar.dev/60?title=Apache" alt="60%"> <img src="https://progress-bar.dev/90?title=wordpress" alt="90%"> <img src="https://progress-bar.dev/10?title=Bash" alt="10%"> <img src="https://progress-bar.dev/100?title=Préparation%20de%20tutoriel" alt="100%">
   
-### Logiciel/Outils
+### Logiciel/Outils (windows)
 
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20premiere%20pro%20-%239999FF.svg?&style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white"/> 
 
@@ -34,16 +34,31 @@ J'ai suivi une formation **Technicien supérieur en réseaux informatiques et t�
 
 <img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/NPM%20-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Open%20Broadcaster%20Software%20-%23302E31.svg?&style=for-the-badge&logo=OBS-Studio&logoColor=white"/> <img src="https://img.shields.io/badge/raspberry%20pi%20imager%20-%23C51A4A.svg?&style=for-the-badge&logo=Raspberry-Pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Broadcaster%20Software%20-%23302E31.svg?&style=for-the-badge&logo=OBS-Studio&logoColor=white"/> <img src="https://img.shields.io/badge/raspberry%20pi%20imager%20-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub%20Desktop%20-%23A81C7D.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+
+### Logiciel/Outils (linux|debian|Raspberry *serveur*)
+
+<img src="https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/NPM%20-%23CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NGINX%20-%23269539.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20-%23D22128.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Mysql%20-%234479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
+
 
 Mes extention sur **Visual Studio Code**:
 
-`Discord Presence,
-ESLint,
-French Language Pack for Visual Studio Code,
-Markdown Preview Enhanced,
-One Dark Pro,
-Prettier - Code formatter`
+`Discord Presence,`
+`ESLint,`
+
+`French Language Pack for Visual Studio Code,`
+`Markdown Preview Enhanced,`
+
+`One Dark Pro,`
+`Prettier - Code formatter`
 
 ##### Contact
 
