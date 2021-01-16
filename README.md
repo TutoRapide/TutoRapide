@@ -60,7 +60,7 @@ Mes extention sur **Visual Studio Code**:
 `One Dark Pro,`
 `Prettier - Code formatter`
 
-[![Les Stats GitHub de Tutorapide](https://github-readme-stats.vercel.app/api?username=TutoRapide&theme=radical)](https://github.com/TutoRapide/github-readme-stats)
+  [![Github Statistics](https://github-readme-stats.vercel.app/api?username=tutorapide&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Contact
 
