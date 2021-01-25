@@ -2,7 +2,7 @@
 
 Salut, je suis Samuel *(Alias  TutoRapide sur internet)*, j’ai 21 ans, je suis né à **l’île de la Réunion** (974 pour les connaisseurs) sur une petite île située à côté de **Madagascar**. 
 
-Je suis un passionné de l’informatique depuis mon plus jeune âge. J’ai fait mes premiers pas sur l’ordinateur à 6 ans.
+Je suis un passionné de l’informatique depuis mon plus jeune âge. J’ai fait mes premiers pas sur l’ordinateur à l'age 6 ans.
 
 J'ai suivi une formation **Technicien supérieur en réseaux informatiques et télécommunications** en 2018 sur Toulouse.
 
