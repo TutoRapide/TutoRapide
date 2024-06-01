@@ -77,7 +77,7 @@ Mes extention sur **Visual Studio Code**:
 
 Email : *Bientôt*
 
-Discord: *𝓢amuel#7455*
+Discord: *samuelba._.*
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/753294055554809956/widget.png?style=banner2)
 
